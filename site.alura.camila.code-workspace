@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "site.alura.camila",
+			"path": "../../Área de Trabalho/site.alura.camila"
+		},
+		{
+			"name": "Camila 2b",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Camila 2b"
+	}
+}
